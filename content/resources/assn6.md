@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes problems on Benders? Decomposition Problem,SDP
   Truss Dynamics Problem, Another Semidefinite Optimization Exercise.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/8735feb85ae82f004e9aa38afd028e6b_assn6.pdf
+file: /media/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/8735feb85ae82f004e9aa38afd028e6b_assn6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn6.pdf
 uid: 8735feb8-5ae8-2f00-4e9a-a38afd028e6b

@@ -4,8 +4,13 @@ description: This resource talks about linear and nonlinear optimization models,
   History of Optimization under Uncertainty, Gemstone Tool Company, GTC Planning under
   Uncertainty, Two-Stage Linear Optimization in Matrix Form, Extensions of the Two-Stage
   Model, A Powerplant Investment Problem
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/1aad178198ed935a92e342d300d2afce_stochastic_lp_art.pdf
+file: /media/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/1aad178198ed935a92e342d300d2afce_stochastic_lp_art.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: stochastic_lp_art.pdf
 uid: 1aad1781-98ed-935a-92e3-42d300d2afce

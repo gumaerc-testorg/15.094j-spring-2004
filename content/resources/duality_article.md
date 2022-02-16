@@ -6,8 +6,13 @@ description: 'This resource covers: The Practical Importance of Duality; Review 
   is a Concave Maximization Problem; Weak Duality; The Column Geometry of the Primal
   and Dual Problems; Strong Duality; Duality Strategies; Illustration of Lagrange
   Duality in Discrete Optimization.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/3933e04aaabb56a7e3e6400736c3fbd7_duality_article.pdf
+file: /media/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/3933e04aaabb56a7e3e6400736c3fbd7_duality_article.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: duality_article.pdf
 uid: 3933e04a-aabb-56a7-e3e6-400736c3fbd7

@@ -3,8 +3,13 @@ content_type: resource
 description: 'This resource includes problems on: An Exercise using OPL Studio Portfolio
   Optimization),Radiation Therapy Model,Lagrange Duality Problems, and Bisection Line-Search
   Algorithm'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/90aaa300dcb631ed81455d90465d1f42_assn1.pdf
+file: /media/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/90aaa300dcb631ed81455d90465d1f42_assn1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn1.pdf
 uid: 90aaa300-dcb6-31ed-8145-5d90465d1f42
