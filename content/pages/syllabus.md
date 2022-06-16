@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains course description, MIT units, prerequisites, course
+  text, and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
