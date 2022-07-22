@@ -8,6 +8,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: stochastic_lp_art.pdf
 uid: 1aad1781-98ed-935a-92e3-42d300d2afce
 ---
 This resource talks about linear and nonlinear optimization models, Brief History of Optimization under Uncertainty, Gemstone Tool Company, GTC Planning under Uncertainty, Two-Stage Linear Optimization in Matrix Form, Extensions of the Two-Stage Model, A Powerplant Investment Problem
-

@@ -7,6 +7,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec24_lec1_12_6p.pdf
 uid: 83e18903-d2c9-0a6d-1b41-a3cb8da693ee
 ---
 This resource covers: Route Guidance; User Equilibrium; System Optimum; User Equilibriain Networks with Capacities and  Constrained System Optimum; Dantzig-Wolfe Decomposition; Constrained Shortest Paths; Computational Results.
-

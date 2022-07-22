@@ -7,6 +7,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn3.pdf
 uid: 61c86bf1-dada-7d11-66b4-44ef17ffee84
 ---
 This resource includes problems on: KKT Conditions, Questions on Convexity, Optimality Conditions, Modeling Using Integer Programing, Integer Programming Duality, Uncapacitated Facility Location.
-

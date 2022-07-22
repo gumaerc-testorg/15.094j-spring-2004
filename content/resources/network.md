@@ -6,6 +6,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: network.pdf
 uid: 50fed6b9-c4e0-cd5c-aa9e-42f740570667
 ---
 This resource helps to determine the number of truck drivers (the capacity) that we will pay to be available to run that route.
-

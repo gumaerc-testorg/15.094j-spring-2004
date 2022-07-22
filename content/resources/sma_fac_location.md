@@ -8,6 +8,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: sma_fac_location.pdf
 uid: 7a857ff6-7929-72c4-0b5e-08ca49f2feaf
 ---
 This resource covers: Why study facility location?; Issues to be modeled; Basic models'; Fixed charge problems; Core uncapacitated and capacitatedfacility location models; Large-scale application (Hunt-Wesson Foods); Why study facility location?; Issues to be modeled Basic models
-

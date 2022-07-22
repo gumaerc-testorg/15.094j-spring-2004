@@ -6,6 +6,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn6.pdf
 uid: 8735feb8-5ae8-2f00-4e9a-a38afd028e6b
 ---
 This resource includes problems on Benders? Decomposition Problem,SDP Truss Dynamics Problem, Another Semidefinite Optimization Exercise.
-

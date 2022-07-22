@@ -7,6 +7,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn4.pdf
 uid: f8e873f5-8259-be21-b711-0a2004958570
 ---
 This resource includes problems on: Deriving the Dual of the Linear Classification Problem with Penalties, Using AMPL and LOQO for pattern classification, Classifying Cancer Cells, Non-linear Classification.
-

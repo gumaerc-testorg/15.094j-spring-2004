@@ -7,6 +7,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn2.pdf
 uid: b9f9ccbb-520f-dab8-6a3e-2159f8bcb018
 ---
 This resource includes problems on: Lagrangian Dual, The Frank-Wolfe Algorithm, Sub gradient Algorithm for Lagrange Dual, Solution Strategies for the Cutting Stock Problem.
-

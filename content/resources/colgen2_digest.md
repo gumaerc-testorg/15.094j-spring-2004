@@ -6,6 +6,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: colgen2_digest.pdf
 uid: 0edb7583-5978-b129-eab3-89ce3680a2b3
 ---
 This resource covers: Supply Chain Challenges, Network Design, Computational Results, Column Generation, and Applications and Extensions.
-

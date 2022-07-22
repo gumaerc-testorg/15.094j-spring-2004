@@ -6,6 +6,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec8_sma_tsp.pdf
 uid: 4eba7929-cbf0-4a75-2ab0-c9fefd26b08e
 ---
 This lecture covers: Traveling salesman problem, Facility location, Network design.
-

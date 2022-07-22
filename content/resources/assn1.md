@@ -7,6 +7,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn1.pdf
 uid: 90aaa300-dcb6-31ed-8145-5d90465d1f42
 ---
 This resource includes problems on: An Exercise using OPL Studio Portfolio Optimization),Radiation Therapy Model,Lagrange Duality Problems, and Bisection Line-Search Algorithm
-

@@ -6,6 +6,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec1_digest.pdf
 uid: 8e092375-9114-8aee-cad0-c538aa25f28b
 ---
 This resource covers: Radiation Therapy, Linear Optimization Model, Computation, Nonlinear and Mixed-Integer Model.
-

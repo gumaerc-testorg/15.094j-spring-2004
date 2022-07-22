@@ -8,6 +8,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 13pattern_qp_art.pdf
 uid: 38946f08-de8c-055e-978f-bfe701564b7b
 ---
 This resource gives an overview on: Pattern Classification, Linear Classifiers, and Quadratic Optimization; Constructing the Dual of CQP; The Karush-Kuhn-Tucker Conditions for CQP; Insights from Duality and the KKT Conditions; Pattern Classification without strict Linear Separation.
-

@@ -6,6 +6,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sma_netwrk_desig.pdf
 uid: 52daf636-59ae-eeac-3262-a1376840d601
 ---
 This resource covers: Network design ingeneral; Network loading; Solution approaches; Pup matching.
-

@@ -5,6 +5,7 @@ file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: facility.pdf
 uid: 2a781f6b-e1a8-e706-299b-61bed84a24ae
 ---
 A classic problem in discrete optimization.
-
