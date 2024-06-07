@@ -3,6 +3,7 @@ content_type: resource
 description: This resource helps to determine the number of truck drivers (the capacity)
   that we will pay to be available to run that route.
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/50fed6b9c4e0cd5caa9e42f740570667_network.pdf
+file_size: 105537
 file_type: application/pdf
 learning_resource_types:
 - Assignments

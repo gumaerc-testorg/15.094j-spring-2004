@@ -242,7 +242,7 @@ Introduction to Semidefinite Programming (SDP) ({{% resource_link e10d415d-44c7-
 {{< tdopen >}}
 Truss Structures - Natural Frequency Manipulation via SDP ({{% resource_link 157f5894-8991-bd65-f5ff-d24abe965a4e "PDF ‑ 1.5MB" %}})  
   
-Smith, Jeffrey, Jessica Hodgins, Andrew Witkin, and Irving Oppenheim. "{{% resource_link "20eb24a6-c60f-4958-b1f4-cf8bbbd2e795" "Creating Models of Truss Structures with Optimization" %}}." _ACM Transactions on Graphics (TOG)_ 21, no. 3 (2002): 295-301.
+Smith, Jeffrey, Jessica Hodgins, Andrew Witkin, and Irving Oppenheim. "[Creating Models of Truss Structures with Optimization](https://www.cs.rpi.edu/~cutler/gaudi/smith_truss_optimization.pdf)." _ACM Transactions on Graphics (TOG)_ 21, no. 3 (2002): 295-301.
 {{< tdclose >}}
 
 {{< trclose >}}

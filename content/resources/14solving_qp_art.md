@@ -5,6 +5,7 @@ description: 'This resource include information on: Active Set Methods for Quadr
   Motivate Interior Point Methods; Interior-Point Methods for Quadratic Optimization;
   Reduced Gradient Algorithm for Quadratic Optimization; Some Computational Results.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/eda74dc064b1dc5ad89fbca7ef1a311e_14solving_qp_art.pdf
+file_size: 870819
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

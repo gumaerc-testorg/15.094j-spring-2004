@@ -4,6 +4,7 @@ description: 'This resource covers: Block Ladder Structure, Reformulation of the
   Model, Delayed Constraint Generation, Benders? Decomposition for Problems with Block-Ladder
   Structure, The Power Plant Investment Model, Computational Results and Exercise.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/5c834b342f40d4f52c4f744d5d5aad2c_benders_art.pdf
+file_size: 207217
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

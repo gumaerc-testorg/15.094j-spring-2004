@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource covers: Network design ingeneral; Network loading; Solution
   approaches; Pup matching.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/52daf63659aeeeac3262a1376840d601_sma_netwrk_desig.pdf
+file_size: 155406
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
