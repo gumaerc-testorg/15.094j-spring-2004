@@ -4,6 +4,7 @@ description: 'This resource includes problems on: Deriving the Dual of the Linea
   Classification Problem with Penalties, Using AMPL and LOQO for pattern classification,
   Classifying Cancer Cells, Non-linear Classification.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/f8e873f58259be21b7110a2004958570_assn4.pdf
+file_size: 72213
 file_type: application/pdf
 learning_resource_types:
 - Assignments

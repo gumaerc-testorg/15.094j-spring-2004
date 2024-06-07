@@ -28,7 +28,7 @@ Course Texts
 
 Bertsimas, D., and J. Tsitsiklis. _Introduction to Linear Optimization_. Belmont, MA: Athena Scientific, 1997. ISBN: 1886529191.
 
-{{% resource_link "622ff9de-9321-4904-966f-2b2f26474ffb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Van Hentenryck, Pascal. {{% resource_link "622ff9de-9321-4904-966f-2b2f26474ffb" "_The OPL Optimization Programming Language_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 0262720302.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262720302) Van Hentenryck, Pascal. [_The OPL Optimization Programming Language_](https://mitpress.mit.edu/0262720302). Cambridge, MA: MIT Press, 1999. ISBN: 0262720302.
 
 Grading Assessment
 ------------------

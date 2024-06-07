@@ -5,6 +5,7 @@ description: 'This resource covers: A Bisection Line-Search Algorithm for 1-Dime
   Method); Subgradient Optimization; Application of Subgradient Optimization to the
   Lagrange Dual Problem.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/e73f03fdebd77b17decb4744b64bbdcf_simple_route_art.pdf
+file_size: 2288572
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This lecture covers: Traveling salesman problem, Facility location,
   Network design.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/4eba7929cbf04a752ab0c9fefd26b08e_lec8_sma_tsp.pdf
+file_size: 523931
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: 'This resource gives an overview on: Pattern Classification, Linear
   Conditions for CQP; Insights from Duality and the KKT Conditions; Pattern Classification
   without strict Linear Separation.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/38946f08de8c055e978fbfe701564b7b_13pattern_qp_art.pdf
+file_size: 299068
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
