@@ -5,6 +5,7 @@ description: This resource talks about linear and nonlinear optimization models,
   Uncertainty, Two-Stage Linear Optimization in Matrix Form, Extensions of the Two-Stage
   Model, A Powerplant Investment Problem
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/1aad178198ed935a92e342d300d2afce_stochastic_lp_art.pdf
+file_size: 633222
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

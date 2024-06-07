@@ -4,6 +4,7 @@ description: 'This resource covers: Route Guidance; User Equilibrium; System Opt
   User Equilibriain Networks with Capacities and  Constrained System Optimum; Dantzig-Wolfe
   Decomposition; Constrained Shortest Paths; Computational Results.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/83e18903d2c90a6d1b41a3cb8da693ee_lec24_lec1_12_6p.pdf
+file_size: 248058
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'This resource includes problems on: KKT Conditions, Questions on C
   Optimality Conditions, Modeling Using Integer Programing, Integer Programming Duality,
   Uncapacitated Facility Location.'
 file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/61c86bf1dada7d1166b444ef17ffee84_assn3.pdf
+file_size: 127136
 file_type: application/pdf
 learning_resource_types:
 - Assignments
