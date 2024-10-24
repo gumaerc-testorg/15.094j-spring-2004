@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource covers the projects origin, problems, an integer programming
   model, langrangian relaxation, comparison, approch and results.
-file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/a85c1dc61e4bc1463db62d6221d36580_lec5_telkom_s02.pdf
+file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/a85c1dc61e4bc1463db62d6221d36580_lec5_telkom_s02.pdf
 file_size: 2660148
 file_type: application/pdf
 learning_resource_types:
