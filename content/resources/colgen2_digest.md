@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource covers: Supply Chain Challenges, Network Design, Computational
   Results, Column Generation, and Applications and Extensions.'
-file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/0edb75835978b129eab389ce3680a2b3_colgen2_digest.pdf
+file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/0edb75835978b129eab389ce3680a2b3_colgen2_digest.pdf
 file_size: 352212
 file_type: application/pdf
 learning_resource_types:
