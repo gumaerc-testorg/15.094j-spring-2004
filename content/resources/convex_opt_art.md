@@ -6,7 +6,7 @@ description: 'This resource covers: Nonlinear Optimization; Portfolio Optimizati
   Problems; On the Geometry of Nonlinear Optimization; Classification of Nonlinear
   Optimization Problems; Solving Separable Convex Optimization via Linear Optimization;
   Optimality Conditions for Nonlinear Optimization; A Few Concluding Remarks.'
-file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/8e956fb2410e9851da8a41a14897c8b1_convex_opt_art.pdf
+file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/8e956fb2410e9851da8a41a14897c8b1_convex_opt_art.pdf
 file_size: 769313
 file_type: application/pdf
 learning_resource_types:
