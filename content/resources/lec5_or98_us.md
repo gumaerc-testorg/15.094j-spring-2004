@@ -2,7 +2,7 @@
 content_type: resource
 description: This article presents two related approches for the optimal computational
   solution of the embedding of a VPN which is crucial in modern network planning.
-file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/ceb2ff59ce2a1294607747ba39db616c_lec5_or98_us.pdf
+file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/ceb2ff59ce2a1294607747ba39db616c_lec5_or98_us.pdf
 file_size: 270955
 file_type: application/pdf
 learning_resource_types:

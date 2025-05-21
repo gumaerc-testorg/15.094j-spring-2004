@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/1b3a1b6d03110705039c24a39a037f83_basis_art_revise.pdf
+file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/1b3a1b6d03110705039c24a39a037f83_basis_art_revise.pdf
 file_size: 141396
 file_type: application/pdf
 learning_resource_types:
