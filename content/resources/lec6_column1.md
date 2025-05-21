@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource covers: Cutting Stock Problem; Classical Integer Programming
   Formulation; Set Covering Formulation;  Column Generation Approach; Connection with
   Lagrangian Relaxation; and Computational issues.'
-file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/89cbaebd557ebdd3fd2b615a2f31e5f9_lec6_column1.pdf
+file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/89cbaebd557ebdd3fd2b615a2f31e5f9_lec6_column1.pdf
 file_size: 230636
 file_type: application/pdf
 learning_resource_types:
