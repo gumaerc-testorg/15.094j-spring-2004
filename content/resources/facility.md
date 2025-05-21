@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A classic problem in discrete optimization.
-file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/2a781f6be1a8e706299b61bed84a24ae_facility.pdf
+file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/2a781f6be1a8e706299b61bed84a24ae_facility.pdf
 file_size: 61205
 file_type: application/pdf
 learning_resource_types:

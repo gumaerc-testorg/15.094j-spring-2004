@@ -5,7 +5,7 @@ description: 'This course covers: Physical Laws of a Truss System, The Truss Des
   Some Computational Results, Semi-Definite Optimization, Truss Design and Semi-Definite
   Optimization, Truss Design and Linear Optimization, and  Extensions of the Truss
   Design Problem'
-file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/f7bc9c1f6992b26b82433bf5a1889005_truss_design_art.pdf
+file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/f7bc9c1f6992b26b82433bf5a1889005_truss_design_art.pdf
 file_size: 799764
 file_type: application/pdf
 learning_resource_types:

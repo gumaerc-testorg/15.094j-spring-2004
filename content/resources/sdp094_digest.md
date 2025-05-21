@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource covers: Alternate View of Linear Programming; Facts about
   Symmetric and Semidefinite Matrices; SDP; SDP Duality; and Examples of SDP.'
-file: /ol-ocw-studio-app/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/e10d415d44c713afa86bb52ac98217c1_sdp094_digest.pdf
+file: /courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/e10d415d44c713afa86bb52ac98217c1_sdp094_digest.pdf
 file_size: 741080
 file_type: application/pdf
 learning_resource_types:
